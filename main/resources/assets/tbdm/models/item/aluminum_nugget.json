@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+       "layer0": "tbdm:items/aluminum_nugget"
+   }
+}
