@@ -1,0 +1,19 @@
+//Items
+
+item.Copper_Ingot.name=Copper Ingot
+item.Copper_Nugget.name=Copper Nugget
+item.Tin_Ingot.name=Tin Ingot
+item.Tin_Nugget.name=Tin Nugget
+item.Aluminum_Ingot.name=Aluminum Ingot
+item.Aluminum_Nugget.name=Aluminum Nugget
+
+//Blocks
+
+tile.copper_block.name=Block of Copper
+tile.aluminum_block.name=Block of Aluminum
+tile.tin_block.name=Block of Tin
+
+//Ores
+tile.copper_ore.name=Copper Ore
+tile.aluminum_ore.name=Aluminum Ore
+tile.tin_ore.name=Tin Ore
